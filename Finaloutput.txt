@@ -1,0 +1,4 @@
+This contains all three pages which I'm stressing my self out over to no end as I feel like I might have been to ambitious with the suggestions email thing 
+which is now just a form shell for show as all I keep seeing is that PHP would be required for that and thats something that I don't know if their is the time 
+for but suggestions page has its format added the discord intagration on that page just to make it look nice and the fourm page is what truly terrifies me as it's alot more work than expected
+but it has the structure up on it and it's in its basic form.

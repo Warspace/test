@@ -1,0 +1,201 @@
+/*This is to have the server name in the top left and have it stay dynamic with resizing*/
+.top-left {
+    position: absolute;
+    top: 8px;
+    left: 8px;
+  }
+  /*This is for the possitioning of the suggestions text*/
+  .left2 {
+    position: absolute;
+    top: 420px;
+    left: 8px;
+  }
+  /*this is to add a box around the two links that will be for the community page and suggestions page*/
+  .box{
+      border: 1px solid gray;
+  }
+  /*this is for keeping the suggestions in place where it is on the page*/
+  .topRight {
+    font-size: large;
+    position: absolute;
+    top: 8px;
+    right: 175px;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+/*This is for the Main announcment on the slash image on the announcments page*/
+  .topann {
+    font-size: xx-large;
+    position: absolute;
+    top: 160px;
+    color: white;
+    left: 10%;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  /*this is for communitys place on the page*/
+  .topRight2 {
+    font-size: large;
+    position: absolute;
+    top: 8px;
+    right: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+
+  /*This is for the suggestions page to fix the position of text as it wouldnt alling well otherwise*/
+  .topRight3 {
+    font-size: large;
+    border: 2px solid gray;
+    position: absolute;
+    top: 8px;
+    right: 170px;
+    font-family: 'Times New Roman', Times, serif;
+  }
+  /*This is the community page profile positioner*/
+  .topRight4 {
+    font-size: large;
+    border: 2px solid gray;
+    position: absolute;
+    top: 8px;
+    right: 16px;
+    font-family: 'Times New Roman', Times, serif;
+  }
+  /*This is positioner for suggestions on community page*/
+  .topRight5 {
+    font-size: large;
+    border: 2px solid gray;
+    position: absolute;
+    top: 8px;
+    right: 110px;
+    font-family: 'Times New Roman', Times, serif;
+  }
+  /*This is positioner for Announcemnets on community page*/
+  .topRight6 {
+    font-size: large;
+    border: 2px solid gray;
+    position: absolute;
+    top: 8px;
+    right: 247px;
+    font-family: 'Times New Roman', Times, serif;
+  }
+  /*This is for the place holder image where the discord intiagration to the page will be def will use stack overflow for that*/
+  .rightside {
+    position: absolute;
+    top: 490px;
+    right: 0px;
+    left: 80%;
+  }
+  /*this is just for the markup text*/
+  .rightsidetxt {
+    position: absolute;
+    top: 780px;
+    right: 0px;
+    left: 80%;
+    font-family: 'Times New Roman', Times, serif;
+  }
+/*This is for the server update denotation on announcment 2*/
+  .leftan2text {
+    position: absolute;
+    top: 480px;
+    right: 0px;
+    left: 32%;
+    font-size: xx-large;
+    color: white;
+    border: 2px solid gray;
+    width: 47%;
+    height: 34%;
+    text-shadow: 2px 2px 4px #000000;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  /*This is for the content text*/
+  .leftan2subtext {
+    position: absolute;
+    top: 580px;
+    right: 0px;
+    left: 32%;
+    font-size: large;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  /* This is for the server update denotation on announcment 2*/
+  .leftan3text {
+    position: absolute;
+    top: 820px;
+    right: 0px;
+    left: 47%;
+    font-size: xx-large;
+    color: white;
+    border: 2px solid gray;
+    width: 32%;
+    height: 34%;
+    text-shadow: 2px 2px 4px #000000;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  /*This is for the the content text */
+  .leftan3subtext {
+    position: absolute;
+    top: 900px;
+    right: 0px;
+    left: 47%;
+    font-size: large;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  /*this is to keep the text on the top in the same place and where it wont have the dots next to them*/
+li{
+    display: inline;
+    padding: 20px;
+}
+
+/*This is the main box for fourm posts and post description text*/
+.postbox{
+  width: 75%;
+  border: 3px solid rgb(172, 172, 172);
+  padding: 10px;
+  margin: 1px;
+  text-align: center;
+  height: 45px;
+  font-family: 'Times New Roman', Times, serif;
+}
+/*This for username allingment*/
+.userName{
+  text-align: right;
+  font-family: 'Times New Roman', Times, serif;
+}
+/*This is for the filter box placment and its text*/
+.filterbox{
+    position: absolute;
+    border: 3px solid rgb(172, 172, 172);
+    top: 453px;
+    right: 0px;
+    left: 76.3%;
+    padding: 10px;
+    height: 477px;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*Starting fresh here so its not a jumbled further up this part is further Announcment page styling*/
+
+
+/*Made this to enhanse the page transfer buttons will use on the other pages*/
+.button{
+  background-color: #2e3c4b;
+  color: white;
+font-size: 20px;
+}
+/*This is an extension to the buttons to make them highlight when hoverd over*/
+.button2:hover {
+  background-color: #000000;
+  color: white;
+}
